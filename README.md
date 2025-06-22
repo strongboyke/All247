@@ -1,2 +1,2 @@
-# All247
+# All247plus
 Online shop
