@@ -5,14 +5,14 @@ Online shop
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>My Online Store</title>
+<title>ALL247plus</title>
 <script src="https://all247plus.com"></script>
-</head>
+</MABATI KUBWA>
 <body class="bg-gray-100 p-4">
-<h1 class="text-3xl font-bold text-center">My Online Store</h1>
+<h1 class="text-3xl font-bold text-center">ALL247plus</h1>
 <div class="max-w-3xl mx-auto mt-6">
 <form id="productForm" class="bg-white p-4 rounded shadow">
-<h2 class="text-xl font-semibold">Add New Product</h2>
+<h2 class="text-xl font-semibold">VIBUYU UMBWA</h2>
 <input id="Maxwel" class="border p-2 mt-2 w-full" placeholder="Maxwell" required />
 <textarea id="features" class="border p-2 mt-2 w-full" placeholder="Product Features"></textarea>
 <input id="Ksh7000" class="border p-2 mt-2 w-full" placeholder="Product Price" required />
